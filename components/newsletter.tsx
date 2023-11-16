@@ -17,7 +17,7 @@ export default function Newsletter() {
                   <stop offset="1" stopColor="#fff" stopOpacity=".24" />
                 </linearGradient>
               </defs>
-              fill="url(#illustration-04)" />
+              fill="url(#illustration-04)" /
             </svg>
           </div>
 
